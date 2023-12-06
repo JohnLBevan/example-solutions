@@ -1,0 +1,10 @@
+# Terraform
+.terraform
+*.tfstate
+*.tfstate.backup
+
+# Terragrunt
+.terragrunt-cache
+
+# Generated Content
+_generated.*
